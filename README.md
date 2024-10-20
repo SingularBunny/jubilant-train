@@ -1,1 +1,3 @@
-# jubilant-train
+# jubilant-t<pre><div data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor="" data-darkreader-inline-color=""><code class="language-markdown" data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor="" data-darkreader-inline-color=""><span>![CI](https://github.com/ваш_пользователь/ваш_репозиторий/actions/workflows/ci.yml/badge.svg)</span></code></div></p
+
+<pre><div data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor="" data-darkreader-inline-color=""><code class="language-markdown" data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor="" data-darkreader-inline-color=""><span>![CI](https://github.com/ваш_пользователь/ваш_репозиторий/actions/workflows/ci.yml/badge.svg)</span></code></div></p
