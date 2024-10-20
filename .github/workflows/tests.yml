@@ -2,11 +2,11 @@ name: CI
 
 on:
   push:
-    branches: [ section04 ]
+    branches:
+      - section04
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
