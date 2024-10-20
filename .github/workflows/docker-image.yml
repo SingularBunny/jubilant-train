@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: anal_punishment/app:latest
+          tags: eugenelopatkin/anal_punishment/app:latest
